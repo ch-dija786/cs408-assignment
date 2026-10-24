@@ -1,0 +1,9 @@
+{
+  "name": "cs408-assignment",
+  "version": "1.0.0",
+  "description": "CS-408 Advanced Web Development Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
